@@ -8,6 +8,10 @@ import { HeroesComponent }      from './heroes.component';
 import { HeroService }          from './hero.service';
 import {DashboardComponent}     from './dashboard.component';
 
+
+//Currently on the section titeled 
+//Select a dashboard hero
+
 @NgModule({
   imports: [
     BrowserModule,
